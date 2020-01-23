@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+
+body {
+    background-color: rgb(61, 59, 172);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+ h3{
+    color: rgb(255, 255, 255);
+ }
+
+ label{
+    color: rgb(255, 255, 255);
+ }
+
+ h4{
+    color: rgb(255, 255, 255);
+ }
+ #showText{
+    color: rgb(255, 255, 255);
+ }
+ 
+ #dText{
+    color: rgb(255, 255, 255);
+ }
+
+ #prev{
+    color: rgb(255, 255, 255);
+ }
+
+ #re{
+     visibility: hidden;
+ }
